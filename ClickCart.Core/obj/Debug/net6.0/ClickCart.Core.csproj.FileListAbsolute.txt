@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\bin\Debug\net6.0\ClickCart.Core.deps.json
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\bin\Debug\net6.0\ClickCart.Core.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\bin\Debug\net6.0\ClickCart.Core.pdb
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.AssemblyInfo.cs
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\refint\ClickCart.Core.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ClickCart.Core.pdb
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Core\obj\Debug\net6.0\ref\ClickCart.Core.dll

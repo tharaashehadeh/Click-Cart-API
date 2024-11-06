@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\bin\Debug\net6.0\ClickCart.Servieces.deps.json
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\bin\Debug\net6.0\ClickCart.Servieces.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\bin\Debug\net6.0\ClickCart.Servieces.pdb
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\bin\Debug\net6.0\ClickCart.Core.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\bin\Debug\net6.0\ClickCart.Core.pdb
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.AssemblyInfo.cs
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.csproj.CopyComplete
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\refint\ClickCart.Servieces.dll
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ClickCart.Servieces.pdb
+C:\Users\Dell\Documents\Asp\project\ClickCart\ClickCart.Servieces\obj\Debug\net6.0\ref\ClickCart.Servieces.dll
